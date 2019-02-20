@@ -2,68 +2,67 @@
 In Satoshi We Trust!
 </p>
 
-# 说明
+# Description
 
-`CSW` 代指 [Craig Steven Wright(Craig S Wright)](https://en.wikipedia.org/wiki/Craig_Steven_Wright).
+`CSW` refers to [Craig Steven Wright (Craig S Wright)] (https://en.wikipedia.org/wiki/Craig_Steven_Wright).
 
-`DK` 指代 [Dave Kleiman](https://en.wikipedia.org/wiki/Dave_Kleiman) 计算机取证专家
+`DK` refers to [Dave Kleiman] (https://en.wikipedia.org/wiki/Dave_Kleiman) computer forensics expert
 
-`DR` 指代 [David Rees](https://en.wikipedia.org/wiki/David_Rees_(mathematician)) 是埃克塞特大学的纯数学教授
+`DR` refers to [David Rees] (https://en.wikipedia.org/wiki/David_Rees_(mathematician)) is a professor of pure mathematics at the University of Exeter
 
-`HAL` 指代 [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)) 比特币早期贡献者
+`HAL` refers to [Hal Finney] (https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)) Bitcoin early contributors
 
-`Gavin Andresen` 比特币软件主要开发者，中本聪退隐后把开发权交给 [Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen)
+`Gavin Andresen` The main developer of Bitcoin software, after the retreat of Nakamoto, the development rights are given to [Gavin Andresen] (https://en.wikipedia.org/wiki/Gavin_Andresen)
 
-`Jon Matonis` 是比特币基金会的董事和创始人之一
+`Jon Matonis` is one of the directors and founders of the Bitcoin Foundation
 
-`ATO` 指澳大利亚税务局
+`ATO` means the Australian Taxation Office
 
-`BlackNet` 是一个实验性的“信息市场”，它允许各种信息的完全匿名的双向信息交换
+`BlackNet` is an experimental "information market" that allows for completely anonymous two-way information exchange of various information.
 
-`MetaNet` 脱胎于 BlackNet
+`MetaNet` born out of BlackNet
 
 # ～2003
 
-**`1985-XX-XX`** CSW 1985年开始在 KMart 从事IT工作，随后加入澳大利亚证券交易所（ASX）[来源一](https://www.computerworld.com.au/article/print/188871/aussie_achieves_world_first_audit_certification/)，[CSW蔑视法庭案件](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms=0&query=%22craig%20wright%22)
+**`1985-XX-XX`** CSW began working in IT at KMart in 1985 and subsequently joined the Australian Stock Exchange (ASX) [Source 1] (https://www.computerworld.com.au/article/print /188871/aussie_achieves_world_first_audit_certification/), [CSW contempt of court cases] (http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms= 0&query=%22craig%20wright%22)
 
-**`1989-XX-XX`** CSW 开始昆士兰大学了 B.Eng/BSci 双学位 [来源](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
+**`1989-XX-XX`** CSW began a double degree in B.Eng/BSci at the University of Queensland [source] (https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot .com/2008_03_02_archive.html)
 
-**`1992-XX-XX`** CSW 由于得了癌症退出了昆士兰大学。[来源一](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
-，[接受了癌症晚期治疗，失去了当时的学位](https://medium.com/@craig_10243/the-fury-fb603e344d20)
+**`1992-XX-XX`** CSW withdrew from the University of Queensland because of cancer. [Source 1] (https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
+, [received advanced cancer treatment, lost the degree at the time] (https://medium.com/@craig_10243/the-fury-fb603e344d20)
 
-**`1993-11-16`** Timothy C. May 有记录的 BlackNet 首次出现
+**`1993-11-16`** Timothy C. May recorded BlackNet first appeared
 
 - [Crypto Anarchy and Virtual Communities
 ](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html)
-- [目前最早记录](https://www.alamut.com/subj/ideologies/manifestos/cryptoanarchist.html)
-- [BlackNet 最早定义 上传时间：1995-10-13](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/blacknet.txt)
+- [Currently the earliest record] (https://www.alamut.com/subj/ideologies/manifestos/cryptoanarchist.html)
+- [BlackNet earliest definition upload time: 1995-10-13] (https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/blacknet.txt)
 
-**`1994-12-XX`** Timothy C. May 发表文章《加密无政府状态和虚拟社区》(
+**`1994-12-XX`** Timothy C. May published article "Encryption Anarchy and Virtual Community" (
 [Crypto Anarchy and Virtual Communities
-](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html))提到了 BlackNet
+] (https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html)) mentioned BlackNet
 
-> BlackNet是一个实验性的“信息市场”，它允许各种信息的完全匿名的双向信息交换。据报道，美国当局已对此进行了调查，因为它存在于国防部研究实验室的网络中。
+> BlackNet is an experimental "information market" that allows for completely anonymous two-way information exchange of various information. According to reports, the US authorities have investigated this because it exists in the network of the Ministry of Defense research laboratory.
 
-**`1996-09-17`** CSW 和阿桑奇早就政见不和 ([链接1](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html)，[链接2](http://cypherpunks.venona.com/date/1996/09/msg01513.html))
+**`1996-09-17`** CSW and Assange have long been in disagreement ([link 1] (https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/ May-virtual-comm.html), [link 2] (http://cypherpunks.venona.com/date/1996/09/msg01513.html)
 
-> CSW 那时候和 Timothy C. May 在邮件列表有过交流，应该知道了 BlackNet
+> CSW had a conversation with Timothy C. May on the mailing list, and should know BlackNet
 
-**`1997-03-04`** Timothy C. May 文章《无法追踪的数字现金，信息市场和BlackNet》([Untraceable Digital Cash, Information Markets, and BlackNet
+**`1997-03-04`** Timothy C. May article "Unable to track digital cash, information market and BlackNet" ([Untraceable Digital Cash, Information Markets, and BlackNet
 ](http://osaka.law.miami.edu/~froomkin/articles/tcmay.htm))
 
-**`1997-03-28`** Adam Back 发明Hashcash [来源](http://www.hashcash.org/papers/)
+**`1997-03-28`** Adam Back invents Hashcash [Source] (http://www.hashcash.org/papers/)
 
 
-**`1997-04-XX`**  CSW 开始在澳洲证券交易所工作 [来源](https://archive.vn/Q66Gl#selection-1313.0-1313.17)
+**`1997-04-XX`** CSW started working on the Australian Stock Exchange [Source] (https://archive.vn/Q66Gl#selection-1313.0-1313.17)
 
-**`1997-11-XX`** CSW 创办 DeMorgan 公司担任常务董事(Managing Director)
+**`1997-11-XX`** CSW founded DeMorgan as Managing Director (Managing Director)
 
-> 成为澳大利亚前150家公司的首批IT安全服务提供商之一，专注于托管安全和安全系统设计，专注于金融服务，银行和技术市场。
+> Became one of the first IT security service providers in Australia's top 150 companies, focusing on managed security and security system design, focusing on financial services, banking and technology markets.
 
-**`1998-05-XX`** CSW 离开 澳洲证券交易所 [来源](https://archive.vn/Q66Gl#selection-1313.0-1313.17)
+**`1998-05-XX`** CSW leaves the Australian Stock Exchange [Source] (https://archive.vn/Q66Gl#selection-1313.0-1313.17)
 
-**`1998-11-XX`** Wei Dai 发布 [b-money](http://www.weidai.com/bmoney.txt)
-
+**`1998-11-XX`** Wei Dai released [b-money](http://www.weidai.com/bmoney.txt)
 **`1998-XX-XX`** CSW 在1998-2003获得神学博士-比较宗教和古典研究 [待印证](https://archive.vn/Q66Gl#selection-9947.0-9950.0)
 
 **`1999-XX-XX`** CSW 设计架构了世界上第一个在线赌场Lasseter's Online 上线
