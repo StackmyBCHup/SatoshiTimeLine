@@ -63,6 +63,7 @@ In Satoshi We Trust!
 **`1998-05-XX`** CSW leaves the Australian Stock Exchange [Source] (https://archive.vn/Q66Gl#selection-1313.0-1313.17)
 
 **`1998-11-XX`** Wei Dai released [b-money](http://www.weidai.com/bmoney.txt)
+
 **`1998-XX-XX`** CSW received a Doctor of Theology in 1998-2003 - Comparative Religion and Classical Studies [to be confirmed] (https://archive.vn/Q66Gl#selection-9947.0-9950.0)
 
 **`1999-XX-XX`** CSW designed to launch the world's first online casino, Lasseter's Online
