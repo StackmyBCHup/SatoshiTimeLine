@@ -24,7 +24,7 @@ In Satoshi We Trust!
 
 # ～2003
 
-**`1985-XX-XX`** CSW began working in IT at KMart in 1985 and subsequently joined the Australian Stock Exchange (ASX) [Source 1] (https://www.computerworld.com.au/article/print/188871/aussie_achieves_world_first_audit_certification/), [CSW contempt of court cases] (http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms= 0&query=%22craig%20wright%22)
+**`1985-XX-XX`** CSW began working in IT at KMart in 1985 and subsequently joined the Australian Stock Exchange (ASX) [Source 1] (https://www.computerworld.com.au/article/188871/aussie_achieves_world_first_audit_certification/), [CSW contempt of court cases] (http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms= 0&query=%22craig%20wright%22)
 
 **`1989-XX-XX`** CSW began a double degree in B.Eng/BSci at the University of Queensland [source] (https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot .com/2008_03_02_archive.html)
 
